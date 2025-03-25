@@ -1,14 +1,26 @@
 # Projeto SuperFitApp
 
-Pratica de conhecimentos Front-End, idealizando um pequeno CRUD inspirado em softwares de gestão de academia de musculação.
+Projeto pessoal Front-End/Back-End, onde, inspirado nos softwares para gestão de academia, inclui processos de visualização de relatórios como treinos, dietas e resultados, bem como cadastrar os itens anteriores alem dos alunos e professores. O sistema de autenticação não é o foco, visto que só pretendia usar o conhecimento adquirido nos estudos das tecnologias.
 
-### 📋 Metas
+## Front-End
 
--> Construir paginas html e linka-las seguindo a seguinte estrutura:
-<-inserir aqui imagem com a estrutura de paginas ->
--> Implementar JS para validar as insercoes dos formularios:
-<-inserir aqui os ->
+Escolhi o React.js como framework por ser o mais utilizado no mercado de trabalho, penso que é importante dominar a ferramenta mais comum de trabalho.
 
-### 📋 Descricao das paginas a serem criadas
+## Back-End
 
-### 📋 Descricao dos validadores a serem criados
+Escolhi o Node.js como ferramenta de trabalho por ser o mais utilizado segundo as pesquisas informais que fiz.
+    
+## Tasks
+### Front-End
+    - [ ] Homepage
+    - [x] Tela Login
+    - [ ] Home Aluno
+    - [ ] Home Professor
+    - [ ] Home Administrador
+    - [ ] Cadastro < Utilizar uma pagina para multiplos cadastros>
+    - [ ] Validação de Formularios
+    - [ ] Rotina botão login
+    - [ ] Rotina botão submissão
+    - [ ] Rotina botão exclusão
+### Back-End
+    
